@@ -1,0 +1,21 @@
+ECHO is on.
+# Исключить файлы/папки среды разработки
+.vscode/
+.idea/
+
+# Исключить виртуальные среды Python
+venv/
+.env/
+
+# Исключить временные файлы
+*.log
+*.tmp
+*.pyc
+__pycache__/
+
+# Исключить Jupyter Notebook контрольные точки
+.ipynb_checkpoints/
+
+# Исключить системные файлы
+.DS_Store
+Thumbs.db
