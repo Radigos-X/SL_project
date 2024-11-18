@@ -8,6 +8,7 @@
 - LogisticRegression
 - DecisionTreeClassifier
 - KNeighborsClassifier
+- RandomForestClassifier
 
 ## Результаты
 Модели достигли следующих показателей:
@@ -15,5 +16,6 @@
 - LogisticRegression: ROC-AUC = ~0.8945
 - DecisionTreeClassifier: ROC-AUC = ~0.8166
 - KNeighborsClassifier: ROC-AUC = ~0.9050
+- RandomForestClassifier: ROC-AUC = ~0.9169
 
-Данные предоставлены в Jupyter Notebook для анализа и воспроизведения экспериментов.
+Данные и эксперименты доступны в Jupyter Notebook, где вы можете воспроизвести процесс предобработки данных, настройки моделей и подбора гиперпараметров.
